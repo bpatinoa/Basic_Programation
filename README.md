@@ -11,8 +11,8 @@ El repositorio estará dividido en carpetas por lenguaje, por ejemplo:
 ```
 Basic_Programming/
 ├── Python/
-│   ├── conceptos_basicos/
-│   ├── estructuras_datos/
+│   ├── Syntax
+│   ├── Exercises
 │   └── proyectos/
 ├── C/
 │   ├── fundamentos/
